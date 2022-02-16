@@ -24,7 +24,7 @@ If I'm not really a frontend programmer, I'm really interested in user interface
 
 ## Lorpie
 
-Lorpie is my first application. The idea of lorpie is not innovative by far, but it provides a simple and clean interface that makes it easy to use for people who are not tech interested.
+Lorpie is my first application, the idea of lorpie is not innovative by far, but it provides a simple and clean interface that makes it easy to use for people who are not tech interested.
 
 ![lorpie mockup](https://user-images.githubusercontent.com/99766455/154370065-d6a4caec-116c-4eb1-817c-c2492b150e6c.png)
 
