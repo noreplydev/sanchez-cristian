@@ -12,7 +12,7 @@ At the age of 13 I was able to buy my first desktop computer, this triggered me 
 
 ## Knowledges
 
-In programming I have knowledge in the following tools: 
+In programming I have knowledge in the following tools:
 
 <img src="https://user-images.githubusercontent.com/99766455/154362550-dec8b1f9-dd94-41e4-9786-135a46b5109a.png" width="300" height="31">
 
@@ -28,7 +28,7 @@ Lorpie is my first application. The idea of lorpie is not innovative by far, but
 
 ![lorpie mockup](https://user-images.githubusercontent.com/99766455/154370065-d6a4caec-116c-4eb1-817c-c2492b150e6c.png)
 
-Donwload [here](https://play.google.com/store/apps/details?id=ml.cpicontacto.lorpie&hl=es)
+Donwload **[here](https://play.google.com/store/apps/details?id=ml.cpicontacto.lorpie&hl=es)**
 
 
 
