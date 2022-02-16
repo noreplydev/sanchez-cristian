@@ -12,3 +12,13 @@ At the age of 13 I was able to buy my first desktop computer, this triggered me 
 
 ## Knoewledges
 
+In programming I have knowledge in the following tools: 
+
+<img src="https://user-images.githubusercontent.com/99766455/154362550-dec8b1f9-dd94-41e4-9786-135a46b5109a.png" width="241" height="24">
+
+If I'm not really a frontend programmer, I'm really interested in user interface and user experience. That's why I've learned to use tools like after effects or illustrator.
+
+<!---
+<img src="https://media.giphy.com/media/lYoKpH44kaGlQDvt5b/giphy.gif" width="100" height="100" />
+-->
+
