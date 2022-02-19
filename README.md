@@ -2,7 +2,7 @@
 
 ### Junior Android Developer &  learning IOS
 
-My name is Cristian Sánchez, I am 16 years old and 15 years ago I migrated from Venezuela to Spain. I currently live in Bilbao and study a medium degree in SMR at the San Luis center. Throughout my life I've had concerns, I have always been a very curious person. This curiosity has led me to disassemble a remote control car and turn it into a 360 ° camera, or work with Arduino boards, thus starting my first knowledge of programming when I was 11 years old. 
+My name is Cristian Sánchez, I currently live in Bilbao and study a medium degree in SMR at the San Luis center. Throughout my life I've had concerns, I have always been a very curious person. This curiosity has led me to disassemble a remote control car and turn it into a 360 ° camera, or work with Arduino boards, thus starting my first knowledge of programming when I was 11 years old. 
 
 At the age of 13 I was able to buy my first desktop computer, this triggered me to sign up for a professional java training and to start using different programs. Two years later I finished my training and got a degree in java developer. Now, being 16 years old, I have already developed an android application, while I study I am working on other projects like:
 
