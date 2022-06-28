@@ -1,6 +1,6 @@
 # Hello 👋🏽, I'm Cristian Sánchez 
 
-### Junior Android Developer &  learning IOS
+### Junior mobile developer
 
 My name is Cristian Sánchez, I currently live in Bilbao and study a medium degree in SMR at the San Luis center. Throughout my life I've had concerns, I have always been a very curious person. This curiosity has led me to disassemble a remote control car and turn it into a 360 ° camera, or work with Arduino boards, thus starting my first knowledge of programming when I was 11 years old. 
 
